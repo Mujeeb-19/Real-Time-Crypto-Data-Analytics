@@ -1,0 +1,2 @@
+# Real-Time-Crypto-Data-Warehouse-with-Snowflake-Azure-Synapse
+A real-time cryptocurrency data warehouse using ADF to ingest and process live data via REST APIs. Leveraged Snowflake for scalable storage and Azure Synapse Analytics for data integration. Created interactive Power BI dashboards for real-time analytics and insights. Ensured data quality, security, and seamless integration across all platforms.
