@@ -6,8 +6,8 @@ An end-to-end pipeline to ingest, process, and analyze live cryptocurrency data.
 
 Features:
 
-Data Ingestion: Fetches real-time crypto data using REST APIs.
-Orchestration: Managed with Azure Data Factory.
-Data Warehousing: Stored in Snowflake for scalability.
-Visualization: Interactive dashboards in Power BI.
-Security: Secure integrations between Azure and Snowflake.
+- Data Ingestion: Fetches real-time crypto data using REST APIs.
+- Orchestration: Managed with Azure Data Factory.
+- Data Warehousing: Stored in Snowflake for scalability.
+- Visualization: Interactive dashboards in Power BI.
+- Security: Secure integrations between Azure and Snowflake.
